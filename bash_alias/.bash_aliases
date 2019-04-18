@@ -2,6 +2,9 @@
 alias hh='history'
 alias $$='$SHELL'
 
+# Move arround
+alias gh='cd ~'
+
 # Git
 alias g='git'
 alias gp='git push'
