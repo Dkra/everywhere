@@ -1,3 +1,6 @@
+# Move arround
+alias gh='cd ~'
+
 # Operate
 alias hh='history'
 alias $$='$SHELL'
@@ -19,3 +22,4 @@ alias dkp='docker ps'
 alias dkpa='docker ps -a'
 alias dki='docker images'
 alias dkh='docker help'
+alias dkc='docker compose'
